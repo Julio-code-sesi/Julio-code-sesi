@@ -1,5 +1,9 @@
 <h2 align="left">👨‍💻 Sobre mim</h2>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Julio-code-sesi/count.svg?"  />
+</div>
+
 ###
 
 <h3 align="left">👋 Hello ! Welcome to my Github profile, My name is Júlio and my nickname is "Júlião"!</h3>
