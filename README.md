@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">👋 Hello ! Welcome to my Github profile, My name is Júlio and my nickname is "Júlião"!</h3>
+<h3 align="center">👋 Hello ! Welcome to my Github profile, My name is Júlio and my nickname is "Júlião"!</h3>
 
 ###
 
